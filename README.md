@@ -156,7 +156,7 @@ docker-compose down -v
 
 ## ✍️ Author
 
-**Shadi Khasan**  
+**Shadik Hasan**  
 📫 [GitHub](https://github.com/shadikhasan)
 
 ---
